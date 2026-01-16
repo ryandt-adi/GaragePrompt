@@ -24,11 +24,11 @@ jobs:
 
     - name: Build executable
       run: |
-        pyinstaller --onefile --windowed ^
-          --name GaragePrompt ^
-          --add-data "assets;assets" ^
-          --add-data "template.pptx;." ^
-          --add-data "theme_colors.json;." ^
+        pyinstaller --onefile --windowed `
+          --name GaragePrompt `
+          --add-data "assets;assets" `
+          --add-data "template.pptx;." `
+          --add-data "theme_colors.json;." `
           main_application.py
 
     - name: Upload artifact
