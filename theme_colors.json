@@ -1,0 +1,37 @@
+{
+  "source_template": "template.pptx",
+  "theme_name": "ADI-Brand-PowerPoint-Template-Standard",
+  "extracted_date": "2026-01-16T21:36:20.083681",
+  "raw_colors": {
+    "dk1": "000000",
+    "lt1": "FFFFFF",
+    "dk2": "0067B9",
+    "lt2": "9EA1AE",
+    "accent1": "00325C",
+    "accent2": "1B9CD0",
+    "accent3": "8637BA",
+    "accent4": "179963",
+    "accent5": "FED141",
+    "accent6": "C81A28",
+    "hlink": "0067B9",
+    "folHlink": "3C4157"
+  },
+  "semantic_mapping": {
+    "primary_dark": "000000",
+    "primary_light": "FFFFFF",
+    "secondary_dark": "0067B9",
+    "secondary_light": "9EA1AE",
+    "accent1": "00325C",
+    "accent2": "1B9CD0",
+    "accent3": "8637BA",
+    "accent4": "179963",
+    "accent5": "FED141",
+    "accent6": "C81A28",
+    "hyperlink": "0067B9",
+    "followed_hyperlink": "3C4157"
+  },
+  "fonts": {
+    "majorFont": "Barlow Medium",
+    "minorFont": "Barlow"
+  }
+}
